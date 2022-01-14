@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @huanidz
 - 👀 I’m interested in Artifical Intelligence, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Specialization of Deep Learning
-- 💞️ I’m looking to work on AI Company
-- 📫 How to reach me 
   Email: huannguyena2@gmail.com
   facebook: https://www.facebook.com/nguyenhuan3d/
 
